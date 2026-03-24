@@ -1,6 +1,6 @@
 Creating a neural network to recognize what language is spoken
 ## Team members
-Owen Wesling (owesling), Emanuel Borror (GitHubUserB)
+Owen Wesling (owesling), Emanuel Borror (EmanuelBorror)
 
 ## Project decription
 
