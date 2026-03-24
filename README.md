@@ -1,7 +1,7 @@
 # Neural Network for Language Detection from Audio
 
 ## Team members
-Owen Wesling (owesling), Emanuel Borror (GitHubUserB)
+Owen Wesling (owesling), Emanuel Borror (EmaneulBorror)
 
 ## Project decription
 
